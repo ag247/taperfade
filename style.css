@@ -1,5 +1,13 @@
+@font-face {
+    font-family: 'DarlingGirl';
+    src: url('fonts/DarlingGirlDemoRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
     text-align: center;
     background-color: crimson;
     color:white;
+    font-family: 'DarlingGirl', sans-serif;
 }
